@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "lightImage": "/img/clients/brands/light/1.png",
+    "darkImage": "/img/clients/brands/onesweat.png",
+    "name": "Onesweat"
+  },
+  {
+    "id": 2,
+    "lightImage": "/img/clients/brands/light/2.png",
+    "darkImage": "/img/clients/brands/moderno.png",
+    "name": "Moderno Works"
+  },
+  {
+    "id": 3,
+    "lightImage": "/img/clients/brands/light/3.png",
+    "darkImage": "/img/clients/brands/sanchezdeharo.png",
+    "name": "Sanchez de Haro"
+  },
+  {
+    "id": 4,
+    "lightImage": "/img/clients/brands/light/4.png",
+    "darkImage": "/img/clients/brands/rotary.png",
+    "name": "Rotary International"
+  },
+  {
+    "id": 5,
+    "lightImage": "/img/clients/brands/light/5.png",
+    "darkImage": "/img/clients/brands/range.png",
+    "name": "Range Counselors"
+  },
+  {
+    "id": 6,
+    "lightImage": "/img/clients/brands/light/6.png",
+    "darkImage": "/img/clients/brands/wsmx.png",
+    "name": "WorldSkills Mexico"
+  },
+  {
+    "id": 7,
+    "lightImage": "/img/clients/brands/light/7.png",
+    "darkImage": "/img/clients/brands/acelogistics.png",
+    "name": "ACE Logistics"
+  },
+  {
+    "id": 8,
+    "lightImage": "/img/clients/brands/light/8.png",
+    "darkImage": "/img/clients/brands/jefx.png",
+    "name": "JEFX"
+  },
+  {
+    "id": 9,
+    "lightImage": "/img/clients/brands/light/8.png",
+    "darkImage": "/img/clients/brands/mcdonald.png",
+    "name": "McDonald Worley"
+  },
+  {
+    "id": 10,
+    "lightImage": "/img/clients/brands/light/8.png",
+    "darkImage": "/img/clients/brands/FrancoDevelopments.png",
+    "name": "Franco Developments"
+  },
+  {
+    "id": 11,
+    "lightImage": "/img/clients/brands/light/8.png",
+    "darkImage": "/img/clients/brands/platinum.png",
+    "name": "Platinum Resolutions"
+  },
+  {
+    "id": 12,
+    "lightImage": "/img/clients/brands/light/8.png",
+    "darkImage": "/img/clients/brands/carniceriaprime.png",
+    "name": "Carniceria Prime"
+  },
+  {
+    "id": 13,
+    "lightImage": "/img/clients/brands/light/8.png",
+    "darkImage": "/img/clients/brands/mariscoszambada.png",
+    "name": "Mariscos Zambada"
+  },
+  {
+    "id": 14,
+    "lightImage": "/img/clients/brands/light/8.png",
+    "darkImage": "/img/clients/brands/francocaps.png",
+    "name": "Franco Sports Caps"
+  }
+]

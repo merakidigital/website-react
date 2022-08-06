@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "ONESWEAT", "second": "Website" },
+    "image": "/img/portfolio/projects/onesweat/cover.jpg",
+    "sub": "Website",
+    "url": "/our-work/onesweat"
+  },
+  {
+    "id": 2,
+    "title": { "first": "Range", "second": "Counselors" },
+    "image": "/img/portfolio/projects/range/cover.jpg",
+    "sub": "Website",
+    "url": "/our-work/range"
+  },
+  {
+    "id": 3,
+    "title": { "first": "ACE", "second": "Services" },
+    "image": "/img/portfolio/projects/ace-logistics/cover.jpg",
+    "sub": "Branding",
+    "url": "/our-work/ace-logistics"
+  },
+  {
+    "id": 4,
+    "title": { "first": "Maistro", "second": "App" },
+    "image": "/img/portfolio/projects/maistro-app/cover.jpg",
+    "sub": "Mobile Development",
+    "url": "/our-work/maistro-app"
+  },
+  {
+    "id": 5,
+    "title": { "first": "Franco", "second": "Developments" },
+    "image": "/img/portfolio/projects/franco-developments/cover.jpg",
+    "sub": "Branding",
+    "url": "/our-work/franco-developments"
+  }
+]

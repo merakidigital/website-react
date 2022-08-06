@@ -1,0 +1,17 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/about": "pages/about.html",
+  "/contact": "pages/contact.html",
+  "/home": "pages/home.html",
+  "/": "pages/index.html",
+  "/our-work": "pages/our-work.html",
+  "/our-work/ace-logistics": "pages/our-work/ace-logistics.html",
+  "/our-work/franco-developments": "pages/our-work/franco-developments.html",
+  "/our-work/maistro-app": "pages/our-work/maistro-app.html",
+  "/our-work/onesweat": "pages/our-work/onesweat.html",
+  "/our-work/range": "pages/our-work/range.html",
+  "/our-work/worldskillsmx": "pages/our-work/worldskillsmx.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}

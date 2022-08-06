@@ -1,0 +1,124 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-5cd94c89d3acac5f.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/ZhxmBf1KTrFQN5hIvIj46/_buildManifest.js",
+    "static/ZhxmBf1KTrFQN5hIvIj46/_ssgManifest.js",
+    "static/ZhxmBf1KTrFQN5hIvIj46/_middlewareManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/chunks/468-d286f37e04eba1b4.js",
+      "static/chunks/485-8340b0a49a9336a4.js",
+      "static/chunks/655-24ba46c86722ea2f.js",
+      "static/chunks/900-ee1719e5b4b0a189.js",
+      "static/chunks/393-b7c25e6089cbcd53.js",
+      "static/css/57f70bbb9dd400ee.css",
+      "static/chunks/pages/index-0f8f6e2acf2460ad.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/css/150abe784bcddfcf.css",
+      "static/chunks/pages/_app-611087873800d359.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/chunks/pages/_error-2280fa386d040b66.js"
+    ],
+    "/about": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/chunks/468-d286f37e04eba1b4.js",
+      "static/chunks/900-ee1719e5b4b0a189.js",
+      "static/chunks/pages/about-6872e6d19e836a8a.js"
+    ],
+    "/contact": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/chunks/468-d286f37e04eba1b4.js",
+      "static/chunks/pages/contact-4030b02f0500dd3f.js"
+    ],
+    "/home": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/chunks/468-d286f37e04eba1b4.js",
+      "static/chunks/485-8340b0a49a9336a4.js",
+      "static/chunks/655-24ba46c86722ea2f.js",
+      "static/chunks/900-ee1719e5b4b0a189.js",
+      "static/chunks/393-b7c25e6089cbcd53.js",
+      "static/css/57f70bbb9dd400ee.css",
+      "static/chunks/pages/home-8f1902efbb67cf2e.js"
+    ],
+    "/our-work": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/chunks/468-d286f37e04eba1b4.js",
+      "static/chunks/485-8340b0a49a9336a4.js",
+      "static/css/57f70bbb9dd400ee.css",
+      "static/chunks/pages/our-work-f8fe2767e69a0f6d.js"
+    ],
+    "/our-work/ace-logistics": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/chunks/468-d286f37e04eba1b4.js",
+      "static/chunks/644-ea8c23473f98f8a0.js",
+      "static/chunks/pages/our-work/ace-logistics-5364dc7109520663.js"
+    ],
+    "/our-work/franco-developments": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/chunks/468-d286f37e04eba1b4.js",
+      "static/chunks/644-ea8c23473f98f8a0.js",
+      "static/chunks/pages/our-work/franco-developments-9ab5a0b51628be0e.js"
+    ],
+    "/our-work/maistro-app": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/chunks/468-d286f37e04eba1b4.js",
+      "static/chunks/644-ea8c23473f98f8a0.js",
+      "static/chunks/pages/our-work/maistro-app-66077ab556d3d4c0.js"
+    ],
+    "/our-work/onesweat": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/chunks/468-d286f37e04eba1b4.js",
+      "static/chunks/644-ea8c23473f98f8a0.js",
+      "static/chunks/pages/our-work/onesweat-ca892e50e2b6da2a.js"
+    ],
+    "/our-work/range": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/chunks/468-d286f37e04eba1b4.js",
+      "static/chunks/644-ea8c23473f98f8a0.js",
+      "static/chunks/pages/our-work/range-e506d92c9ea0ac91.js"
+    ],
+    "/our-work/worldskillsmx": [
+      "static/chunks/webpack-2b99834efceef160.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-92a4b7096e925952.js",
+      "static/chunks/468-d286f37e04eba1b4.js",
+      "static/chunks/644-ea8c23473f98f8a0.js",
+      "static/chunks/pages/our-work/worldskillsmx-808f7279aeb4ffd8.js"
+    ]
+  },
+  "ampFirstPages": []
+}
